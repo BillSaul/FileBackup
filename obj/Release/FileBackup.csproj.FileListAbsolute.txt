@@ -1,0 +1,8 @@
+D:\CompilingRoom\C#\FileBackup\obj\Release\FileBackup.csprojAssemblyReference.cache
+D:\CompilingRoom\C#\FileBackup\obj\Release\PhotoBackup.Form1.resources
+D:\CompilingRoom\C#\FileBackup\obj\Release\FileBackup.csproj.GenerateResource.cache
+D:\CompilingRoom\C#\FileBackup\obj\Release\FileBackup.csproj.CoreCompileInputs.cache
+D:\CompilingRoom\C#\FileBackup\bin\Release\FileBackup.exe.config
+D:\CompilingRoom\C#\FileBackup\bin\Release\FileBackup.exe
+D:\CompilingRoom\C#\FileBackup\obj\Release\FileBackup.Properties.Resources.resources
+D:\CompilingRoom\C#\FileBackup\obj\Release\FileBackup.exe
